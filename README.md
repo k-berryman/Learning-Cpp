@@ -1,2 +1,3 @@
 # Learning C++
-# Testing
+
+## Codecademy - C++ for Programmers (Intermediate)
