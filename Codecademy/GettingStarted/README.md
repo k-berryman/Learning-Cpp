@@ -37,3 +37,7 @@ Commas `,` a space after each comma
 Just one line separating vertically. Normal horizontal spacing.
 
 #### Indentation
+Always two spaces at a time. NO TABS.
+
+#### Line Length
+Be reasonable. 80 chars.
